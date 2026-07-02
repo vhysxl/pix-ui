@@ -1,4 +1,4 @@
-function Toast({ show, message }) {
+export function Toast({ show, message }) {
   if (!show) return null;
 
   return (
@@ -51,5 +51,3 @@ function Toast({ show, message }) {
     </>
   );
 }
-
-export default Toast;
