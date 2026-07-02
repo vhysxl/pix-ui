@@ -3,4 +3,5 @@ export { SpongebobCursor, CutePinkPointer } from './components/Cursor';
 export { Toast } from './components/Toast';
 export { PinkToggle } from './components/Toggle';
 export { PinkProgressBar } from './components/ProgressBar';
+export { PuzzleLoad } from './components/Puzzle';
 
