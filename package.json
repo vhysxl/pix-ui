@@ -1,6 +1,6 @@
 {
-  "name": "pick-ui",
-  "version": "1.0.0",
+  "name": "pick-uiiii",
+  "version": "1.0.9",
   "type": "module",
   "main": "./dist/my-ui-package.umd.js",
   "module": "./dist/my-ui-package.es.js",
